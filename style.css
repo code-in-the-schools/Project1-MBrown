@@ -1,5 +1,10 @@
 body {
-  background-color: lightblue;
+  background-color: rgba(75, 185, 48, 0.473);
+   border-color: black;
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 1px;
+  
 
 }
 
@@ -16,7 +21,7 @@ h2 {
 img {
   float: left;
   width: 200px;
-  margin: 10px;
+  margin: 20px;
   border-color: mediumseagreen;
   border-width: 1px;
   border-style: solid;
